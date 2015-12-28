@@ -1,0 +1,17 @@
+div#content{
+  width:800px;
+  height:548px;
+  margin:30px auto 0px;
+}
+
+div#content > h1{
+  padding:0px;
+  margin: 0px;
+  height: 48px;
+  font-size: 24px;
+}
+
+div#map{
+  width: 800px;
+  height: 500px;
+}
